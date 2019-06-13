@@ -1,0 +1,21 @@
+.title {
+    margin: 10px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 50px;
+    text-shadow: 5px 5px 7px #161616;
+}
+.titlebox {
+    background-color: #56b5c2;
+    margin: 0; 
+    height: 100px;
+    padding: 10px;
+    box-shadow: 0 10px 20px #161616;
+}
+body {
+    margin: 0;
+}
+.overall {
+    width: 500px;
+    margin: 0 auto;
+}
